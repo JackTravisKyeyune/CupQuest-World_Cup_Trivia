@@ -14,6 +14,9 @@ Engaging and interactive gameplay experience.
 
 ## Technologies Used
 
+![68747470733a2f2f7777772e64726f70626f782e636f6d2f732f37357a6735666f623663336433616d2f53637265656e73686f74253230323031392d30322d323325323030392e33302e35362e6a70673f7261773d31](https://github.com/JackTravisKyeyune/CupQuest-World_Cup_Trivia/assets/111267510/bbf7cc39-672f-4737-b4ab-e3642c70f95c)
+
+
 HTML, CSS, and JavaScript for the frontend development.
 React.js framework for building the user interface.
 Node.js for server-side development.
@@ -40,6 +43,9 @@ Open your browser and visit localhost to access the game.
 The Trivia World Cup Game integrates with the FIFA World Cup APIs to fetch the required data for the trivia questions. 
 These APIs provide access to information about World Cup winners, results, and goals scored. 
 The data is fetched dynamically during the gameplay, ensuring up-to-date and accurate information.
+
+![68747470733a2f2f7777772e64726f70626f782e636f6d2f732f396a696673696e74646876726467702f53637265656e73686f74253230323031392d30322d323325323031302e32372e33302e6a70673f7261773d31](https://github.com/JackTravisKyeyune/CupQuest-World_Cup_Trivia/assets/111267510/3aac5440-2332-4058-b637-0b782594ce3d)
+
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or a pull request.
