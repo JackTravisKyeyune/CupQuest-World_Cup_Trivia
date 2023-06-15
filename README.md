@@ -39,6 +39,8 @@ Start the development server: npm start
 
 Open your browser and visit localhost to access the game.
 
+Play the game live https://cupquestworldcuptrivia.netlify.app/ 
+
 #### API Integration
 The Trivia World Cup Game integrates with the FIFA World Cup APIs to fetch the required data for the trivia questions. 
 These APIs provide access to information about World Cup winners, results, and goals scored. 
